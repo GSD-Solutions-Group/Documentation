@@ -1,1 +1,25 @@
+How will you secure Windows 10 endpoint workstations from data loss and malware threats?
+
+Use strong and up-to-date antivirus/anti-malware software: Install reputable antivirus/anti-malware software on each workstation and ensure it is regularly updated. Configure it to perform scheduled scans and real-time monitoring for detecting and blocking known malware threats.
+
+Enable and update Windows Defender: Windows 10 comes with built-in Windows Defender antivirus software. Ensure it is enabled and receiving regular updates to provide additional protection against malware and other security threats.
+
+Apply regular operating system updates: Keep the Windows 10 operating system up to date by regularly installing security patches and updates provided by Microsoft. Enable automatic updates to ensure critical security fixes are applied promptly.
+
+Utilize a firewall: Enable and configure the built-in Windows Firewall or consider using third-party firewall software to monitor and control inbound and outbound network traffic. This helps protect against unauthorized access and blocks potential malware communications.
+
+Implement strong access controls: Use strong, unique passwords for user accounts and enforce password complexity policies. Consider implementing multi-factor authentication (MFA) for an extra layer of security. Limit administrative access to authorized personnel only.
+
+Encrypt sensitive data: Utilize BitLocker or other disk encryption tools available in Windows 10 to encrypt sensitive data on workstations. This protects the data in case of theft or unauthorized access to the physical device.
+
+Regularly back up data: Implement a regular backup strategy to protect against data loss. Back up critical data to an external storage device, network location, or cloud storage. Ensure backups are tested periodically to verify their integrity and reliability.
+
+Educate employees on security best practices: Conduct security awareness training to educate employees on recognizing and avoiding common security threats like phishing emails, suspicious websites, and downloading files from untrusted sources.
+
+Implement web filtering and content controls: Use web filtering tools or content filtering solutions to restrict access to potentially malicious or inappropriate websites. This can help prevent malware infections and enhance productivity.
+
+Monitor and respond to security events: Implement a system for monitoring security events and logs on workstations to detect and respond to any potential security incidents. Use security information and event management (SIEM) tools or endpoint detection and response (EDR) solutions for proactive threat detection and response.
+
+
+
 
