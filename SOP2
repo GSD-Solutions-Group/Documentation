@@ -1,1 +1,1 @@
-
+How will you securely dispose of sensitive data from storage media?Software-Based Secure Erasure: Use specialized software tools designed for secure data erasure. These tools can securely erase data on storage media, including hard drives, SSDs, and USB drives, by overwriting it with random patterns or using secure erasure algorithms. Some examples of widely used tools include DBAN (Darik's Boot and Nuke), Eraser, and CCleaner.
