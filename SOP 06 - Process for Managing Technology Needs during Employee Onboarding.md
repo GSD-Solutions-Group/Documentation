@@ -39,16 +39,17 @@ Beyond the initial onboarding period, IT support continues to be available to ad
 # References:
 
 # Definitions:
-What Does this word mean?
+Technology Needs Assessment: This step involves assessing the technology requirements of new employees based on their job roles and responsibilities. It includes identifying the necessary hardware, software, network access, and other technology resources needed to perform their duties effectively.
 
-And this word? Is it Jargon?
+Equipment Procurement and Setup: This phase encompasses the process of procuring the required technology equipment for new employees, such as computers, mobile devices, peripherals, and accessories. It includes coordinating with vendors, purchasing or leasing equipment, configuring hardware, and installing necessary software and applications.
 
-Definition - Make sure to explain what this is in plain language
+Account Provisioning: Account provisioning involves creating and setting up the necessary user accounts for new employees. This includes creating email accounts, network accounts, and access credentials for relevant systems, applications, and platforms. It also involves configuring account settings, permissions, and security measures based on the employee's role and access requirements.
 
-(ACRO) Acronyms Should Be Spelled Out - and then defined
+Software Installation and Configuration: This step focuses on installing and configuring software and applications that are essential for the new employee's job responsibilities. It includes deploying productivity tools, collaboration software, specialized applications, and any other software required to perform their tasks. Configuration settings and preferences may also be customized to align with the employee's needs.
+
 
 # Revision History: 
-5/18/2023 -"Process for Managing Technology Needs during Employee Onboarding" Created By Raheem Reed
+5/18/2023 -"Process for Managing Technology Needs during Employee Onboarding" Created By Raheem Reed Chat Gpt assisted 
 
 
 
