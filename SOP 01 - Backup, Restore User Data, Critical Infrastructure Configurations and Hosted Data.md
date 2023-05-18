@@ -59,9 +59,11 @@ Conduct periodic reviews of the backup strategy to ensure it remains effective a
  
  ## References:
 
-*
- 
-## Definitions:
+* Micro Satellite Non-Disclosure Agreement
+* Micro Satellite Scope of Work: FinalFrontier2023
+* NIST Framework 800-53
+
+ ## Definitions:
 
 * CIO (Chief Information Officer) - A senior leadership position in the company that is responsible for all information technology assets and strategies.
 
