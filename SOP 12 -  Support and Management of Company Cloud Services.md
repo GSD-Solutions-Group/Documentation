@@ -27,3 +27,4 @@ Gather feedback from users, monitor support metrics, and conduct regular assessm
 ### Vendor relationship management
 Maintain a positive relationship with cloud service providers. Engage in regular communication, attend vendor training sessions or webinars, and stay updated on new features or updates. This fosters collaboration, ensures effective support escalation, and helps resolve any vendor-related issues promptly.
 
+Version 1(Raheem Reed 5/15/2023)
