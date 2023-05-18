@@ -1,7 +1,4 @@
-SOP-10:
-
-
-How will you administer and support Windows systems?
+# Windows Systems Administration and Support Procedures
 
 The purpose of this section is to outline the procedures and practices for administering and supporting Windows systems within the organization.
 This section applies to all Windows systems, including servers and client machines, within the organization's network infrastructure.
