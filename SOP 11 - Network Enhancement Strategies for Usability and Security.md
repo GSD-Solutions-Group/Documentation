@@ -28,14 +28,9 @@ Scalability: Network enhancement strategies take into account the scalability of
 
 Redundancy and High Availability: To ensure continuous network availability, redundancy and high availability mechanisms are incorporated. Redundancy involves duplicating critical network components such as routers, switches, and servers to provide backup in case of failures. High availability strategies include implementing failover mechanisms, load balancing, and redundant network paths to minimize downtime and ensure uninterrupted network connectivity.
 
-User Education and Awareness: Network enhancement strategies emphasize the importance of user education and awareness in maintaining network security. Regular training programs are conducted to educate users about safe network practices, password management, and identifying and reporting potential security threats. By promoting a culture of security awareness, users become an integral part of the network's defense against security breaches.
-
-Regulatory Compliance: Network enhancement strategies also consider regulatory requirements and compliance standards specific to the organization's industry. This includes adhering to data protection regulations, industry-specific security guidelines, and privacy laws. Compliance measures are implemented to protect sensitive data, ensure data integrity, and meet legal obligations related to network security and privacy.
-
-Network Enhancement Strategies for Usability and Security combine technical and procedural measures to create a robust and secure network infrastructure. By focusing on usability, security, performance, scalability, and compliance, organizations can enhance their networks to meet the growing demands of modern connectivity while ensuring the protection and accessibility of network resources.
 
 # Revision History
-5/18/2023 - "Network Enhancement Strategies for Usability and Security" Created By Raheem Reed
+5/18/2023 - "Network Enhancement Strategies for Usability and Security" Created By Raheem Reed ChatGpt assisted
 
 
 
@@ -69,21 +64,3 @@ Network Enhancement Strategies for Usability and Security combine technical and 
 
 
 
-Network Management Guidelines for All Components, Devices, and Services (Internal and External)
-
-### Responsible for implementing and maintaining network usability and security enhancements.
-
-### Adequate network monitoring tools and security software must be in place.
-All network components and devices should be properly configured and updated.
-
-### Configure a file sharing server to securely share engineering data in house 
-Configure an email component to easily share non sensitive data 
-
-### References: 
-Company Network Security Policy, 
-Industry practices and standards for network usability and security
-
-### Network Security: 
-The measures and practices implemented to protect the network infrastructure from unauthorized access, attacks, and data breaches.
-
-Version 1.0 (originally compiled by Colin Wilde 5/15/23)
