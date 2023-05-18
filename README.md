@@ -1,7 +1,7 @@
 # Documentation
 ## SOPS
 
-| [SOP 01](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP%2001%20-%20Backup%2C%20Restore%20User%20Data%2C%20Critical%20Infrastructure%20Configurations%20and%20Hosted%20Data.md) | [SOP 02](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP 02.md)
+| [SOP 01- Backup, Restore User Data, Critical Infrastructure Configurations and Hosted Data](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP%2001%20-%20Backup%2C%20Restore%20User%20Data%2C%20Critical%20Infrastructure%20Configurations%20and%20Hosted%20Data.md) | [SOP 02](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP 02.md)
 | [SOP 03](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP 0.md3) | [SOP 04](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP 04.md)
 | [SOP 05](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP5)  |[SOP 06](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SOP6) | 
 
