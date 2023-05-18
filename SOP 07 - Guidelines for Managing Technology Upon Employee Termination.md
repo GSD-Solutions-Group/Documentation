@@ -1,9 +1,8 @@
-SOP Requirements: Each SOP should include the following sections:
+# Guidelines for Managing Technology Upon Employee Termination
+ Guidelines for Managing Technology Upon Employee Departure (Resignation, Termination, and Contract Completion)
 
-This section defines the guidelines with what will happen with techonology once an employee is terminated 
-
-This section applies to all employees who are leaving the organization, including those who have resigned, been terminated, or completed their employment contract.
-IT Department: Responsible for securing company data, revoking access, and managing the return of company-owned technology assets.
+### IT Department:
+Responsible for securing company data, revoking access, and managing the return of company-owned technology assets.
 An inventory of company-owned technology assets assigned to each employee.
 HR department notifies the IT department in advance about the impending termination or departure of an employee.
 HR communicates with the departing employee to collect information about company-owned technology assets in their possession.
