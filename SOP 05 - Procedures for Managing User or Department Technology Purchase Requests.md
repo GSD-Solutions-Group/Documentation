@@ -21,6 +21,8 @@ After selecting a vendor, the necessary procurement documentation, such as purch
 ### Deployment and support: 
 Once the purchased technology is received, it is deployed and integrated within the organization's infrastructure or provided to the requesting user or department. Support and training may be provided as needed to ensure proper utilization and maintenance of the technology.
 
+Vesrion 1 (Created By Raheem Reed 5/15/2023)
+
 
 
 
