@@ -1,5 +1,55 @@
-# Backup, Restore User Data, Critical Infrastructure Configurations and Hosted Data
+# SOP 01: Backup, Restore User Data, Critical Infrastructure Configurations and Hosted Data
  
+ ## Purpose:
+ _______________________
+ The Purpose of this Standard Operating Procedure (SOP) is to outline procedures for the restoration of user data, identify and provide for the preservation of all critical infrastructure configurations, and to set forth guidance for the regular scheduling of backups for all relevant user files, databases, application settings, system configurations, virtual machines, hosted data, and any other critical data and configurations identified.
+
+ ## Scope: 
+ ______________________
+ The scope of this SOP is to be Company-wide. All entities under the control of Micro Satellites will comply with this SOP and all allies, contractors, partners, etc. will include written language in any contracts, convenants, Statements of Understanding, and the like to be in compliance with these procedures.  
+
+ ## Responsibilites:
+ _______________________
+ 
+
+ * jhjjkfjfkjfgk
+
+ * dfkjdkljkdsjkdjkf
+
+ * fdlkjflkflkjfjgfkf
+
+
+
+ ## Prerequisites:
+ ________________________
+ 
+
+
+ ## Procedure:
+ _________________________
+
+ * jhjjkfjfkjfgk
+
+ * dfkjdkljkdsjkdjkf
+
+ * fdlkjflkflkjfjgfkf
+ 
+ 
+ ## References:
+ _________________________
+ 
+## Definitions:
+__________________________
+
+* What Does this word mean?
+
+* And this word? Is it Jargon?
+
+* Definition - Make sure to explain what this is in plain language
+
+* (ACRO) Acronyms Should Be Spelled Out - and then defined
+
+
  ### Critical Data and Configurations: 
  Determine which user data, infrastructure configurations, and hosted data are essential and need to be backed up regularly. This can include user files, databases, application settings, system configurations, virtual machines, and any other critical data or configurations.
 
