@@ -21,6 +21,8 @@ To ensure data security, IT teams implement necessary security measures during o
 ### Ongoing support:
 Beyond the initial onboarding period, IT support continues to be available to address any ongoing technology needs or issues that employees may encounter. This support may be provided through a helpdesk system, self-service resources, or dedicated IT personnel.
 
+Version 1 (Created By Raheem Reed 5/15/2023)
+
 
 
 
