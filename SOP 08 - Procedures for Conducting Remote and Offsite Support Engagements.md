@@ -39,16 +39,17 @@ Once the issue is resolved or the requested assistance is provided, the technici
 # References:
 
 # Definitions:
-What Does this word mean?
+Remote Support Engagement: This refers to the process of providing technical assistance and troubleshooting remotely to customers or end-users who are not physically present at the support location. It involves using various communication channels, remote access tools, and collaboration platforms to diagnose and resolve technical issues.
 
-And this word? Is it Jargon?
+Pre-engagement Preparation: This phase encompasses the necessary steps and preparations before initiating a remote support engagement. It includes gathering relevant information about the customer, understanding the nature of the issue, ensuring the availability of required resources and tools, and coordinating schedules with the customer.
 
-Definition - Make sure to explain what this is in plain language
+Communication and Expectation Setting: Communication plays a vital role in remote support engagements. This involves establishing clear and effective communication channels with the customer, such as phone, email, video conferencing, or chat. It also entails setting expectations with the customer regarding response times, available support hours, and the scope of support that can be provided remotely.
 
-(ACRO) Acronyms Should Be Spelled Out - and then defined
+Remote Access and Troubleshooting: This step involves establishing remote access to the customer's system or device, either through remote desktop software, VPN, or other secure remote access protocols. Once connected, the support team can diagnose and troubleshoot the reported issues by remotely controlling the customer's system, analyzing logs, performing tests, or providing step-by-step instructions for problem resolution.
+
 
 # Revision History:
-5/18/2023 - "Procedures for Conducting Remote and Offsite Support Engagements" Created By Raheem Reed
+5/18/2023 - "Procedures for Conducting Remote and Offsite Support Engagements" Created By Raheem Reed ChaptGpt assisted
 
   
   
