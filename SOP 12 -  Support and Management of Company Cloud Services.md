@@ -46,16 +46,19 @@ Maintain a positive relationship with cloud service providers. Engage in regular
 # References:
 
 # Definitions:
-What Does this word mean?
+Cloud Service Support: Cloud service support involves providing technical assistance and troubleshooting to users or stakeholders who utilize the organization's cloud services. This includes addressing user queries, resolving issues, and assisting with service-related tasks such as user provisioning, access management, and service configuration.
 
-And this word? Is it Jargon?
+Incident and Problem Management: Incident and problem management refers to the process of handling and resolving issues that arise with cloud services. SOPs define the steps for logging and categorizing incidents, initiating appropriate escalation procedures, and coordinating with relevant stakeholders to investigate and resolve problems in a timely manner.
 
-Definition - Make sure to explain what this is in plain language
+Service Level Agreements (SLAs): SLAs outline the agreed-upon performance expectations and service commitments between the organization and the cloud service provider. SOPs for support and management of cloud services should define the processes for monitoring SLA compliance, reporting violations, and initiating corrective actions or escalations when necessary.
 
-(ACRO) Acronyms Should Be Spelled Out - and then defined
+Security and Compliance: Security and compliance measures are crucial when managing cloud services. SOPs should outline guidelines for implementing security controls, ensuring data privacy and protection, and adhering to regulatory requirements specific to the organization's industry. This includes measures such as access controls, data encryption, regular security assessments, and incident response procedures.
+
+Cloud Resource Provisioning: Cloud resource provisioning involves allocating and managing cloud resources such as virtual machines, storage, and network configurations. SOPs should define the process for resource provisioning, including requesting, provisioning, and decommissioning resources in accordance with organizational needs, scalability requirements, and cost optimization considerations.
+
 
 # Revision History:
-5/18/2023 - "Support and Management of Company Cloud Services" created By Raheem Reed
+5/18/2023 - "Support and Management of Company Cloud Services" created By Raheem Reed Chat Gpt assisted
 
 
 
