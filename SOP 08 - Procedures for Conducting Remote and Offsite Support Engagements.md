@@ -1,6 +1,24 @@
 # Procedures for Conducting Remote and Offsite Support Engagements
 
-### Communication and Coordination:
+# Purpose:
+
+The purpose conducting remote and offsite support engagements is to establish a structured and efficient approach to providing support services to customers who are not physically present at the same location as the support team. These procedures help ensure that support interactions are handled effectively, regardless of geographical distances or remote work arrangements.
+
+
+# Scope:
+The scope for this sop would be Identifying the communication channels to be used for remote support engagements, such as email, phone, video conferencing, chat, or remote support tools. The scope defines which channels are appropriate for different types of support interactions. 
+
+
+# Responsibilities:
+ The responsibilities for this sop would be to Implement remote support tools that allow our  support team (GSD) to remotely access and troubleshoot customer systems. This can include screen-sharing software, remote desktop tools, or remote control applications. we would have to train our support team on the proper use of these tools.
+ 
+ 
+ # Prerequisites:
+  Before we can conduct remote and offsite support we must ensure that Both the support team, which is us and customers must have access to stable and reliable internet connections to facilitate smooth communication and remote troubleshooting. Adequate bandwidth is essential for screen sharing, remote access, and file transfers.
+  
+  
+  # Procedure:
+  ### Communication and Coordination:
 The user or client will initiate the support request through a preferred communication channel such as phone, email, chat, or a dedicated support ticketing system.This process describes the issue or question they need assistance with.
 
 ### Remote Access and Diagnostic Tools:
@@ -18,7 +36,52 @@ Collaborative tools, such as instant messaging platforms or video conferencing t
 ### Follow-up and Closure:
 Once the issue is resolved or the requested assistance is provided, the technician helping you will confirm with the user that the problem is resolved or ensures that the support request has been addressed satisfactorily. They may provide additional recommendations, tips, or resources to prevent future occurrences of similar issues.
 
-Version 1 (Created By Raheem Reed 5/15/2023)
+# References:
+
+# Definitions:
+What Does this word mean?
+
+And this word? Is it Jargon?
+
+Definition - Make sure to explain what this is in plain language
+
+(ACRO) Acronyms Should Be Spelled Out - and then defined
+
+# Revision History:
+5/18/2023 - "Procedures for Conducting Remote and Offsite Support Engagements" Created By Raheem Reed
+
+  
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
