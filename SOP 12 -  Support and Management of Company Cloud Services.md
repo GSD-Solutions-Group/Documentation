@@ -1,5 +1,21 @@
 # Support and Management of Company Cloud Services
 
+# Purpose:
+The purpose of support and management of company cloud services is to ensure the smooth operation, availability, and optimal performance of the cloud-based infrastructure and services used by the organization. This includes various activities aimed at supporting users, addressing technical issues, and managing the overall cloud environment.
+
+
+# Scope:
+Support and management of cloud services often include implementing backup and disaster recovery strategies. This involves setting up regular data backups, establishing recovery point objectives (RPOs) and recovery time objectives (RTOs), and testing the recovery process to ensure data integrity and business continuity in case of a disaster or data loss event.
+
+# Responsibilities:
+One of the most important responsibilities is for the process to Stay updated with the latest trends, advancements, and updates in cloud technologies. Continuously evaluate and assess the organization's cloud services, identify opportunities for improvement, and recommend innovative solutions to enhance efficiency, security, and performance.
+
+# Prerequisites:
+The most important steps to take before implementing the process is to Develop a clear cloud strategy aligned with the organization's goals and objectives. Define the purpose of using cloud services, whether it's for scalability, cost savings, agility, or other specific reasons. This strategy will guide decision-making and resource allocation for cloud service support and management.
+
+
+# Procedure:
+
 ### Helpdesk and ticketing system
 Establish a helpdesk or ticketing system to receive and track support requests related to cloud services. Users can submit tickets or contact the support team through various communication channels such as email, phone, or chat.
 
@@ -27,4 +43,20 @@ Gather feedback from users, monitor support metrics, and conduct regular assessm
 ### Vendor relationship management
 Maintain a positive relationship with cloud service providers. Engage in regular communication, attend vendor training sessions or webinars, and stay updated on new features or updates. This fosters collaboration, ensures effective support escalation, and helps resolve any vendor-related issues promptly.
 
-Version 1(Created By Raheem Reed 5/15/2023)
+# References:
+
+# Definitions:
+What Does this word mean?
+
+And this word? Is it Jargon?
+
+Definition - Make sure to explain what this is in plain language
+
+(ACRO) Acronyms Should Be Spelled Out - and then defined
+
+# Revision History:
+5/18/2023 - "Support and Management of Company Cloud Services" created By Raheem Reed
+
+
+
+
