@@ -14,3 +14,6 @@ If the initial response does not fully meet the needs or require further clarifi
 
 ### Continuous Conversation:
 The support team encourages ongoing conversation as needed, until the support needs are fully resolved or have obtained the desired information. This iterative process strives for satisfaction and a successful support engagement.
+
+
+Version 1 - Natasha Siramarco 05/18/2023
