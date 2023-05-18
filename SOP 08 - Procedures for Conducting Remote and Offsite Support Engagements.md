@@ -18,6 +18,8 @@ Collaborative tools, such as instant messaging platforms or video conferencing t
 ### Follow-up and Closure:
 Once the issue is resolved or the requested assistance is provided, the technician confirms with the user that the problem is resolved or ensures that the support request has been addressed satisfactorily. They may provide additional recommendations, tips, or resources to prevent future occurrences of similar issues.
 
+Version 1 (Created By Raheem Reed 5/15/2023)
+
 
 
 
