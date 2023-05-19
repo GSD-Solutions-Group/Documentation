@@ -20,7 +20,7 @@
 
  ## Prerequisites:
  
- 
+ * There are no current prerequisites to this SOP.
 
  ## Procedure:
  
