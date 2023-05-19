@@ -9,4 +9,4 @@
 
 
  ## Diagram
- [System Topology](https://github.com/GSD-Solutions-Group/Documentation/blob/main/SystemTopology.jpg)
+ [Network Topology](https://github.com/GSD-Solutions-Group/Documentation/blob/main/network%20topology.drawio.pdf)
