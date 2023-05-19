@@ -20,11 +20,10 @@
 
  ## Prerequisites:
  
- * There are no current prerequisites to this SOP.
+ * This SOP is to conform to the current company Disaster Recovery Plan and Business Continuity Plan in force.
 
  ## Procedure:
  
-
  #### Critical Data and Configurations: 
  
 * Managers shall provide recommendations to determine which user data (identified by role-based permissions), infrastructure configurations, and hosted data are essential and should be backed up regularly. This will include (but is not limited to)user files, databases, application settings, system configurations, virtual machines, and any other critical data or configurations.
@@ -42,25 +41,32 @@
 * The MSP may use automation to facilitate backup or tools to automate the backup process. Schedule regular backups at predefined intervals to ensure consistency and reliability. Automating backups reduces the likelihood of human error and ensures backups are performed consistently.
 
 #### Choose backup storage location: 
-Select an appropriate backup storage location based on factors such as security, accessibility, and scalability. This could include external hard drives, network-attached storage (NAS), dedicated backup servers, or cloud storage services.
+
+* Select an appropriate backup storage location based on factors such as security, accessibility, and scalability. This could include external hard drives, network-attached storage (NAS), dedicated backup servers, or cloud storage services.
 
 #### Test backups and verify data integrity: 
-Regularly test the backup process by restoring data and configurations from backups to ensure they are valid and can be successfully recovered. Validate the integrity of the backed-up data to ensure it remains intact and usable.
+
+* Regularly test the backup process by restoring data and configurations from backups to ensure they are valid and can be successfully recovered. Validate the integrity of the backed-up data to ensure it remains intact and usable.
 
 #### Secure backups: 
-Implement appropriate security measures to protect backup data from unauthorized access or tampering. This can involve encrypting backups, using access controls, and following best practices for data security.
 
-#### Establish a disaster recovery plan:
-Develop a comprehensive disaster recovery plan that outlines the steps and procedures to follow in the event of data loss, system failures, or other disasters. This plan should include the process for restoring backups and bringing critical systems back online.
+* Implement appropriate security measures to protect backup data from unauthorized access or tampering. This can involve encrypting backups, using access controls, and following best practices for data security.
+
+#### Support the Disaster Recovery Plan:
+
+* This SOP will support the process for restoring backups and bringing critical systems back online in accordance with the Micro Satellite Disaster Recovery Plan.
 
 #### Regularly review and update backup procedures: 
-Conduct periodic reviews of the backup strategy to ensure it remains effective and aligned with evolving business needs. Update backup procedures and tools as necessary to accommodate changes in infrastructure, data volumes, or technology advancements.
+
+* Conduct periodic reviews of the backup strategy to ensure it remains effective and aligned with evolving business needs. Update backup procedures and tools as necessary to accommodate changes in infrastructure, data volumes, or technology advancements.
  
  
  ## References:
 
 * Micro Satellite Non-Disclosure Agreement
 * Micro Satellite Scope of Work: FinalFrontier2023
+* Micro Satellite Disaster Recovery Plan
+* Micro Satellite Business Continuity Plan
 * NIST Framework 800-53
 
  ## Definitions:
