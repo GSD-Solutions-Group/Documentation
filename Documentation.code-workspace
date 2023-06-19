@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Scripts-and-Tools",
+			"path": "../Scripts-and-Tools"
+		}
+	],
+	"settings": {}
+}
